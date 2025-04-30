@@ -1,6 +1,6 @@
 # Enhancing Detection of Relationship Abuse in Text with Multi-task Learning (Student Abstract)
 
-This repo contains the data and experiments conducted for the paper "Enhancing Detection of Relationship Abuse in Text with Multi-task Learning (Student Abstract)" published by The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25). The full paper can be found in the online proceedings at [AAAI-25](https://ojs.aaai.org/index.php/AAAI/article/view/35294)
+This repo contains the data and experiments conducted for the paper "Enhancing Detection of Relationship Abuse in Text with Multi-task Learning (Student Abstract)" published by The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25). The full paper can be found in the online proceedings at [AAAI-25](https://ojs.aaai.org/index.php/AAAI/article/view/35294).
 
 ## Abstract
 Intimate Partner Violence is a global, life-threatening public health issue that can be prevented by recognizing emotionally aggressive behaviors that signal the potential for future relationship abuse. To help identify these precursory unhealthy behaviors, this study proposes a Multi-task Learning framework for training robust models capable of detecting not only physically abusive behaviors but also emotionally abusive behaviors, such as belittling or manipulation, which historically precede physical abuse. Preliminary results indicate that Multi-task Learning can improve detection of emotional abuse and help tune detection models to particular kinds of relationship abuse.
