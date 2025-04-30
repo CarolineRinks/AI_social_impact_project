@@ -1,0 +1,1 @@
+These jupyter notebooks were used to get a feel for finetuning an LLM. None of the final results come from these notebooks as they were purely for exploration.
